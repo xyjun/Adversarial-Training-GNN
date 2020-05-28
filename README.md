@@ -103,7 +103,7 @@
 | Perturbation | Model            | Reference |
 |--------------|------------------|-----------|
 | AT           | GAT,Dwns_AdvT    | [[13]](https://arxiv.org/pdf/1902.08226.pdf),[[14]](https://arxiv.org/pdf/1908.11514.pdf)     |
-| VAT          | GATV,BVAT,GCNVAT | [[13]]((https://arxiv.org/pdf/1902.08226.pdf)),[[11]](https://arxiv.org/pdf/1902.09192.pdf),[[15]](https://arxiv.org/pdf/1902.11045.pdf)  |
+| VAT          | GATV,BVAT,GCNVAT | [[13]](https://arxiv.org/pdf/1902.08226.pdf),[[11]](https://arxiv.org/pdf/1902.09192.pdf),[[15]](https://arxiv.org/pdf/1902.11045.pdf)  |
 | DAT          | DAGMF,Mixup      | [[19]](),[[8]](https://arxiv.org/pdf/1906.06875.pdf)     |
 | PGD-based    | FREELB,PGD-K      | [[5]](https://openreview.net/pdf?id=BygzbyHFvB),[[10]](https://arxiv.org/pdf/1904.12843.pdf)        |
 
